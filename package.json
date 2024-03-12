@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "type": "module",
+  "main": "./server.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "node ./server.js",
     "server": "nodemon server.js",
     "push": "git add . && git commit -m 'wip' && git push"
   },
