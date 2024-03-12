@@ -1,8 +1,0 @@
-[
-    {
-        "film": "mongoose.Types.ObjectId",
-        "date": "Date",
-        "room": "mongoose.Types.ObjectId",
-        "seats": [[Number]]
-    }
-]
